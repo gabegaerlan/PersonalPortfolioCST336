@@ -9,15 +9,15 @@ header, main, nav, footer{
 
 nav a{
     padding:15px;
-    padding-bottom:4px;
-    font-size:1.8em;
+    padding-bottom:4px;cle
+    font-size:2em;
     text-decoration:none;
     color:lightblue;
 }
 
 nav a:hover{
-    border-bottom:2px;
-    font-size:2em;
+    border-bottom:2px orange solid;
+    font-size:1.8em;
     transition:.9s;
 }
 
